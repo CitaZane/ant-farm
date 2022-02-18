@@ -30,7 +30,7 @@ Use the folowing command, replacing the tag with file name from `examples` folde
 go run . "<example00.txt>"
 ```
 
-There is a test file created, to run all the audit commands at the same time.
+There is a test file created, check how ants find they way in different maps.
 
 ```
 bash test.sh
